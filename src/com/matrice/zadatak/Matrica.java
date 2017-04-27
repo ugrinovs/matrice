@@ -1,8 +1,5 @@
 package com.matrice.zadatak;
 
-/**
- * Created by sugrinov on 26.4.17..
- */
 public class Matrica {
     private int dimenzijaN = 0;
     private int dimenzijaM = 0;
